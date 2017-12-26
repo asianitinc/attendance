@@ -1,13 +1,6 @@
 # attendance
 Education Attendance Management System
 
-<!DOCTYPE HTML>
-<html lang="en-US">
-<head>
-	<meta charset="UTF-8">
-	<title>The Features of Attendance</title>
-</head>
-<body>
 <h2>The main features of this software are listed below.</h2>
 <ul>
 	<li>01# Student List</li>
@@ -16,5 +9,3 @@ Education Attendance Management System
 	<li>04# Class List</li>
 	<li>05# Section List</li>
 </ul>
-</body>
-</html>
