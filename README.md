@@ -5,7 +5,7 @@ Education Attendance Management System
 <html lang="en-US">
 <head>
 	<meta charset="UTF-8">
-	<title></title>
+	<title>The Features of Attendance</title>
 </head>
 <body>
 <h2>The main features of this software are listed below.</h2>
